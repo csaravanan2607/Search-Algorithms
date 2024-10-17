@@ -1,6 +1,6 @@
-# Ex - 7 :
+# Ex - 7 
 # Date : 17/10/24
-# Linear Search and Binary search :
+# Linear Search and Binary search 
 # Aim :
 To write a program to perform linear search and binary search using python programming.
 # Equipment’s required :
